@@ -5,7 +5,7 @@
 <string>4cb40dda-655f-ea11-a2d4-8fc412487b0a</string>
 <key>storeIdentifierValues</key>
 <array>
-<string>1_310</string>
+<string>{restaurant_id}</string>
 </array>
 <key>eAuthMode</key>
 <string>StoreIdentifiersFlat</string>
